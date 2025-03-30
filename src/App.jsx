@@ -1,11 +1,12 @@
-import './App.css'
 import React from "react";
+import {Card} from "./Card.jsx";
 
 function App() {
     return (
         <React.Fragment>
-           <span>Hello Everyone</span>
-            <span>Hello Everyone x2</span>
+            <main>
+              <Card/>
+            </main>
         </React.Fragment>
     )
 }

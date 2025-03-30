@@ -1,12 +1,26 @@
-# React + Vite
+# Fancy Counter Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![React](https://img.shields.io/badge/React-v18.2.0-blue)](https://react.dev/)
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The Fancy Counter application is a simple yet stylish web application that allows users to increment, decrement, and reset a counter.  
+It's built using React and aims to be a learning tool for React beginners.
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+*   **Increment:** Increase the counter value by 1 with each click.
+*   **Decrement:** Decrease the counter value by 1 with each click.
+*   **Reset:** Returns the counter to its initial value.
+*   **Responsive Design:** The application is designed to work seamlessly on various screen sizes, from desktops to mobile devices.
+* **Visually Appealing:** The application has a modern and clean design.
+
+## Getting Started
+
+TODO
+
+### Prerequisites
+
+*   [Node.js](https://nodejs.org/) (version 16 or higher recommended)
+*   [npm](https://www.npmjs.com/) (usually comes with Node.js) or [yarn](https://yarnpkg.
